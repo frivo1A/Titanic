@@ -15,4 +15,4 @@ Explorar quais fatores influenciaram a sobrevivência no naufrágio.
 1. Baixe os arquivos `train.csv` e `titanic-analysis.ipynb`.  
 2. Execute o notebook no Google Colab ou Jupyter.  
 
-**Autor**: [Seu Nome]  
+**Autor**: [Luciano Frivo]  
